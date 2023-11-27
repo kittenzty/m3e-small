@@ -5,6 +5,10 @@ tasks:
 - word-embedding
 license: Apache License 2.0
 tags:
+- Sentence Transformers
+- PyTorch
+- Chinese
+- bert
 - embedding
 - text-embedding
 language:
